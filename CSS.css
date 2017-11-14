@@ -1,0 +1,15 @@
+h1 {background-color: grey;
+  color: white; text-align: center;}
+p {background-color: white;
+text-align: center;
+}
+body {
+    background-color: black;
+}
+hr {text-align: center;}
+h1 {font-family: 'Comic Sans', sans-serif;}
+p {font-family: 'Ubuntu', sans-serif;}
+@font-face {
+  font-family: Comic Sans ;
+  src:url(COMIC.TTF);
+}
