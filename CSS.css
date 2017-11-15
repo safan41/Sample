@@ -7,9 +7,11 @@ body {
     background-color: black;
 }
 hr {text-align: center;}
-h1 {font-family: 'Comic Sans', sans-serif;}
+h1 {font-family: 'Comic Sans', sans-serif;
+color: rebeccapurple}
 p {font-family: 'Comic Sans', sans-serif;}
 @font-face {
   font-family: Comic Sans ;
   src:url(COMIC.TTF);
 }
+
