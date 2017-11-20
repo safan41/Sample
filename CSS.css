@@ -14,4 +14,7 @@ p {font-family: 'Comic Sans', sans-serif;}
   font-family: Comic Sans ;
   src:url(COMIC.TTF);
 }
+a:link{color:red; text-decoration: none}
+a:visited{color:orange; text-decoration: none}
+a:hover{color:mediumseagreen; text-decoration: none}
 
